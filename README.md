@@ -1,11 +1,11 @@
-Signup Form Project
+## Signup Form Project
 
 
- Signup Form Project
+# Signup Form Project
 Project Overview
 This project is a simple user signup form using Node.js and Express.js for the backend, and a HTML form for the frontend. User data (name, username, email, password) is collected from the form and stored in a JSON file (users.json). The project also retrieves and displays the list of registered users.
 
-Technologies Used
+# Technologies Used
 Node.js
 Express.js
 fs (File System)
@@ -20,7 +20,7 @@ GET /api/users
 Fetches all registered users from users.json.
 
 
-folder strucuter
+# folder strucuter
 /db
     users.json    
 /public
@@ -30,6 +30,6 @@ package.json
 
 
 
-Usage
+# Usage
 Start the server using npm start.
 Open index.html in a browser to access the signup form.
