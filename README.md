@@ -25,23 +25,24 @@ Follow these instructions to set up and run the project locally.
 
     ```bash
     git clone https://github.com/your-username/repository-name.git
-    
+   ``` 
 
 2. Navigate to the project directory:
 
    ```bash
     cd repository-name
-    
+    ```
 
 3. Install the dependencies:
 
   ```bash
     npm install
+```
     
 
 ### Running the Application
 
-To run the server locally, use the following command:
+#To run the server locally, use the following command:
 
 ```bash
 npm start
